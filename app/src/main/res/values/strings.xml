@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project VSGA</string>
+    <string name="judul_splash">Dinas Pendidikan Tuban</string>
+    <string name="daftar_smk_se_kabupaten_tuban">Daftar SMK se Kabupaten Tuban</string>
+    <string name="judul_dinas_pendidikan">Copyright Dinas Pendidikan 2019</string>
+    <string name="daftar_smk_sma">Daftar SMA &amp; SMK</string>
+</resources>
