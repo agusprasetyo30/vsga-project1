@@ -34,6 +34,7 @@ public class DataActivity extends AppCompatActivity implements DataSmkAdapter.On
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_data);
+		setTitle("Data Sekolah");
 		rvSmk = findViewById(R.id.rv_smk);
 		rvSma = findViewById(R.id.rv_sma);
 		
